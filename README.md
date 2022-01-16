@@ -1,6 +1,6 @@
-# ml_kit_face_detection
+# Emotion Detection Using Flutter
 
-A new Flutter application.
+A Flutter Application Detect Emotions
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![fa4f2156-3a34-4475-8e77-6f28c022157a](https://user-images.githubusercontent.com/43057341/149670567-1482903c-1bec-4008-9b39-73ec16c3e2ce.jpg)
